@@ -620,4 +620,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-**Built with ❤️ using modern web technologies**
+*This project is part of the NandoLabs portfolio, showcasing production-ready GraphQL API development with Node.js, TypeScript, and Apollo Server.*
