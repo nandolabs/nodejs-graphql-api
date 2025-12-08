@@ -56,6 +56,26 @@ This project delivers a **ready-to-use GraphQL backend** that already solves tho
 
 ---
 
+## API Screenshots
+
+### GraphQL Playground
+
+![GraphQL Playground](./docs/images/default_view.png)
+
+### Create Post Example
+
+![Create Post Mutation](./docs/images/create_post.png)
+
+### List Posts Example
+
+![List Posts Query](./docs/images/list_post.png)
+
+### List Users Example
+
+![List User Query](./docs/images/list_user.png)
+
+---
+
 ## Installation
 
 ### 1. Clone the Repository
@@ -436,26 +456,6 @@ curl -X POST http://localhost:4000/graphql \
   }
 }
 ```
-
----
-
-## API Screenshots
-
-### GraphQL Playground
-
-![GraphQL Playground](./docs/images/default_view.png)
-
-### Create Post Example
-
-![Create Post Mutation](./docs/images/create_post.png)
-
-### List Posts Example
-
-![List Posts Query](./docs/images/list_post.png)
-
-### List Users Example
-
-![List User Query](./docs/images/list_user.png)
 
 ---
 
